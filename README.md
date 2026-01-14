@@ -1,4 +1,4 @@
-# PHY617 Computational Physics
+# PHY617 Computational Physics (2025)
 This is a repository to organize and store code from the lectures
 
 There are many ways to download this code.
