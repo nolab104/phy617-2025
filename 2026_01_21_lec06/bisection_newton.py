@@ -42,7 +42,6 @@ def bisection(a, b, eps):
 
 def newton(x0, eps):
     x = x0  # initial value of x
-    xn = x + 100 * eps  # so that the while loop starts the first time
     n = 0  # to keep count of number of iterations
     while True:
         n = n + 1  # add one.. first iteration 1, second 2, third 3 and so on
